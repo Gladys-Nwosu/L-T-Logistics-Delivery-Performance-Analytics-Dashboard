@@ -56,6 +56,6 @@ The main goal of this project was to understand:
 ## Tools Used
 
 - Power BI
-- Power Query
+- Power Query (data cleaning)
 - DAX
-- Excel (data merging and preparation)
+- Excel (data merging)
